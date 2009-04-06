@@ -168,6 +168,14 @@
 	</References>
 	<Files>
 		<File
+			RelativePath=".\Assembelers.cpp"
+			>
+		</File>
+		<File
+			RelativePath=".\Assemblers.h"
+			>
+		</File>
+		<File
 			RelativePath=".\main.cpp"
 			>
 		</File>
