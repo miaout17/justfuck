@@ -176,6 +176,14 @@
 			>
 		</File>
 		<File
+			RelativePath=".\BFCompiler.cpp"
+			>
+		</File>
+		<File
+			RelativePath=".\BFCompiler.h"
+			>
+		</File>
+		<File
 			RelativePath=".\main.cpp"
 			>
 		</File>
