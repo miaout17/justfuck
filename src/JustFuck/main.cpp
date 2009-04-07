@@ -133,8 +133,6 @@ void Asm8::BeginLoop()
 
     c.test(al, al);
     c.jz( pPair->end );
-    //c.cmp( al, Immediate(0) );
-    //c.je( pPair->end );
 
     c.bind( pPair->begin ) ;
 }

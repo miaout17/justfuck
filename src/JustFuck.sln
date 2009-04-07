@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual C++ Express 2008
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "asmjit", "asmjit\asmjit.vcproj", "{7EB9CAD8-2D54-41BC-B757-EFB06A8683C5}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JustBF", "JustFuck\JustFuck.vcproj", "{8B0E9F3C-9C8E-4051-9094-946A6E6284F6}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JustFuck", "JustFuck\JustFuck.vcproj", "{8B0E9F3C-9C8E-4051-9094-946A6E6284F6}"
 	ProjectSection(ProjectDependencies) = postProject
 		{7EB9CAD8-2D54-41BC-B757-EFB06A8683C5} = {7EB9CAD8-2D54-41BC-B757-EFB06A8683C5}
 	EndProjectSection
