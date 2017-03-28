@@ -1,0 +1,12 @@
+A JUST-in-time brainFUCK compiler.
+
+This is a fun project I wrote back in 2009.
+* It analysis the Brainfuck code and optimizes consecutive operators.
+* It generates x86 target code and executes it immediately.
+
+Note:
+* This was written back in 2009 and I didn't look back to improve it. 
+* I'm more skilled in Linux / C++ / git now.
+
+Yu-Cheng Ling
+
